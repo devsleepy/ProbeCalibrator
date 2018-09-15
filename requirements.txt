@@ -1,1 +1,9 @@
+# placeholder for now until I figure out how to install dependencies
 
+Notes: 
+Read Documentation for PIP
+Read Documentation for PYPI
+Virtual Environment?
+Virtualenv w/ virtualenvwrapper? (Python 2 & 3)
+or
+Venv? (Python 3 only)
